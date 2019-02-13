@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="creatiVision" />
+		<Option pch_mode="2" />
+		<Option compiler="mingw_32-bit" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/creatiVision" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="mingw_32-bit" />
+				<Option parameters="-r sonicinv.bin -n 1" />
+				<Compiler>
+					<Add option="-march=i686" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/creatiVision" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="mingw_32-bit" />
+				<Option parameters="-c cvdemo.cas -l -r basic83b.bin -s" />
+				<Compiler>
+					<Add option="-march=i686" />
+					<Add option="-O3" />
+					<Add option="-Wno-sign-compare" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-static-libgcc" />
+			<Add option="-mno-ms-bitfields" />
+			<Add option="-Wno-sign-compare" />
+			<Add option="-DLSB_FIRST" />
+			<Add option="-DBPP32" />
+			<Add option="-DWIN32" />
+			<Add option="-DDEBUG" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32" />
+			<Add option="-lSDL2main" />
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_net" />
+			<Add option="-lpng" />
+			<Add option="-lz" />
+			<Add option="-static-libgcc" />
+		</Linker>
+		<Unit filename="Codes.h" />
+		<Unit filename="DRV9918.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="M6502.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="M6502.h" />
+		<Unit filename="TMS9918.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TMS9918.h" />
+		<Unit filename="Tables.h" />
+		<Unit filename="cassette.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cpu_intrf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creatiVision.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="crvision.h" />
+		<Unit filename="demorec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="joystick.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="netplay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="netplay.h" />
+		<Unit filename="pia_intf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="png.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="riff.h" />
+		<Unit filename="sn76496sp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sn76496sp.h" />
+		<Unit filename="snapshot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="snd_intrf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vdp_intrf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

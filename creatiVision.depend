@@ -1,0 +1,707 @@
+# depslib dependency file v1.0
+1384096331 source:c:\mingw\projects\creativision\condebug.c
+	"Debug.c"
+	"M6502.h"
+	"Console.h"
+	<stdlib.h>
+	"Debug.c"
+
+1384096331 c:\mingw\projects\creativision\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"M6502.h"
+	"NES.h"
+
+1382955949 c:\mingw\projects\creativision\m6502.h
+
+1384096331 source:c:\mingw\projects\creativision\cpu_intrf.c
+	"crvision.h"
+
+1384010678 c:\mingw\projects\creativision\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496.h"
+	<SDL2/SDL.h>
+
+1384131000 source:c:\mingw\projects\creativision\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1383217187 source:c:\mingw\projects\creativision\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1382955949 c:\mingw\projects\creativision\tables.h
+
+1382955949 c:\mingw\projects\creativision\codes.h
+
+1384096503 source:c:\mingw\projects\creativision\main.c
+	"crvision.h"
+
+1383786455 c:\mingw\projects\creativision\tms9918.h
+
+1382955949 source:c:\mingw\projects\creativision\drv9918.c
+	"TMS9918.h"
+
+1383908417 source:c:\mingw\projects\creativision\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1384035918 source:c:\mingw\projects\creativision\vdp_intrf.c
+	"crvision.h"
+
+1384096332 source:c:\mingw\projects\creativision\memory.c
+	"crvision.h"
+
+1384114090 source:c:\mingw\projects\creativision\pia_intf.c
+	"crvision.h"
+
+1383872599 source:c:\mingw\projects\creativision\sn76496.c
+	"crvision.h"
+
+1383245107 c:\mingw\projects\creativision\sn76496.h
+
+1383994056 source:c:\mingw\projects\creativision\snd_intrf.c
+	"crvision.h"
+
+1383144614 source:c:\mingw\projects\creativision\sn76498a.c
+	"crvision.h"
+
+1383993489 source:c:\mingw\projects\creativision\printer.c
+	"crvision.h"
+
+1383992427 source:c:\mingw\projects\creativision\cassette.c
+	"crvision.h"
+
+1383516777 source:c:\mingw\projects\creativision\creativision.rc
+
+1383993322 source:c:\mingw\projects\creativision\joystick.c
+	"crvision.h"
+
+1384096332 source:c:\mingw\projects\creativision\snapshot.c
+	"crvision.h"
+
+1383992172 source:c:\mingw\projects\creativision\bitmap.c
+	"crvision.h"
+
+1383992807 source:c:\mingw\projects\creativision\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1383995277 c:\mingw\projects\creativision\riff.h
+
+1384421459 source:z:\creativision\trunk\bitmap.c
+	"crvision.h"
+
+1384687895 z:\creativision\trunk\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496.h"
+	<SDL2/SDL.h>
+
+1384421318 z:\creativision\trunk\m6502.h
+
+1384421318 z:\creativision\trunk\tms9918.h
+
+1384421318 z:\creativision\trunk\sn76496.h
+
+1384422338 source:z:\creativision\trunk\cassette.c
+	"crvision.h"
+
+1384687895 source:z:\creativision\trunk\cpu_intrf.c
+	"crvision.h"
+
+1384421318 source:z:\creativision\trunk\creativision.rc
+
+1384421318 source:z:\creativision\trunk\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1384421318 source:z:\creativision\trunk\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1384421459 z:\creativision\trunk\riff.h
+
+1384421318 source:z:\creativision\trunk\drv9918.c
+	"TMS9918.h"
+
+1384421459 source:z:\creativision\trunk\joystick.c
+	"crvision.h"
+
+1384421318 source:z:\creativision\trunk\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1384421318 z:\creativision\trunk\tables.h
+
+1384421318 z:\creativision\trunk\codes.h
+
+1384421459 source:z:\creativision\trunk\main.c
+	"crvision.h"
+
+1384421459 source:z:\creativision\trunk\memory.c
+	"crvision.h"
+
+1384421459 source:z:\creativision\trunk\pia_intf.c
+	"crvision.h"
+
+1384421459 source:z:\creativision\trunk\printer.c
+	"crvision.h"
+
+1384421318 source:z:\creativision\trunk\sn76496.c
+	"crvision.h"
+
+1384421459 source:z:\creativision\trunk\snapshot.c
+	"crvision.h"
+
+1384421459 source:z:\creativision\trunk\snd_intrf.c
+	"crvision.h"
+
+1384421318 source:z:\creativision\trunk\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1384687895 source:z:\creativision\trunk\vdp_intrf.c
+	"crvision.h"
+
+1419822533 source:c:\projects\mingw32\cv029\bitmap.c
+	"crvision.h"
+
+1419857969 c:\projects\mingw32\cv029\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	<png.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496sp.h"
+	<SDL2/SDL.h>
+
+1419509642 c:\projects\mingw32\cv029\m6502.h
+
+1419509642 c:\projects\mingw32\cv029\tms9918.h
+
+1419509642 c:\projects\mingw32\cv029\sn76496.h
+
+1419509642 source:c:\projects\mingw32\cv029\cassette.c
+	"crvision.h"
+
+1419856716 source:c:\projects\mingw32\cv029\cpu_intrf.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv029\creativision.rc
+
+1419509642 source:c:\projects\mingw32\cv029\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1419816796 source:c:\projects\mingw32\cv029\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1419816450 c:\projects\mingw32\cv029\riff.h
+
+1419509642 source:c:\projects\mingw32\cv029\drv9918.c
+	"TMS9918.h"
+
+1419509642 source:c:\projects\mingw32\cv029\joystick.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv029\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1419509642 c:\projects\mingw32\cv029\tables.h
+
+1419509642 c:\projects\mingw32\cv029\codes.h
+
+1419858060 source:c:\projects\mingw32\cv029\main.c
+	"crvision.h"
+
+1419859234 source:c:\projects\mingw32\cv029\memory.c
+	"crvision.h"
+
+1419682410 source:c:\projects\mingw32\cv029\pia_intf.c
+	"crvision.h"
+
+1419807879 source:c:\projects\mingw32\cv029\png.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv029\printer.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv029\sn76496.c
+	"crvision.h"
+
+1419729027 source:c:\projects\mingw32\cv029\snapshot.c
+	"crvision.h"
+
+1419814762 source:c:\projects\mingw32\cv029\snd_intrf.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv029\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1419509642 source:c:\projects\mingw32\cv029\vdp_intrf.c
+	"crvision.h"
+
+1419681699 source:c:\projects\mingw32\cv029\sn76498.c
+	"crvision.h"
+
+1419687648 c:\projects\mingw32\cv029\sn76496sp.h
+
+1419817977 source:c:\projects\mingw32\cv029\sn76496sp.c
+	"crvision.h"
+
+1420495401 source:c:\projects\mingw32\cv030\cassette.c
+	"crvision.h"
+
+1420492522 c:\projects\mingw32\cv030\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	<png.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496sp.h"
+	<SDL2/SDL.h>
+
+1420385268 c:\projects\mingw32\cv030\m6502.h
+
+1420385268 c:\projects\mingw32\cv030\tms9918.h
+
+1420384698 c:\projects\mingw32\cv030\sn76496sp.h
+
+1420491876 source:c:\projects\mingw32\cv030\cpu_intrf.c
+	"crvision.h"
+
+1419509642 source:c:\projects\mingw32\cv030\creativision.rc
+
+1420385261 source:c:\projects\mingw32\cv030\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1420384696 source:c:\projects\mingw32\cv030\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1420384698 c:\projects\mingw32\cv030\riff.h
+
+1420385261 source:c:\projects\mingw32\cv030\drv9918.c
+	"TMS9918.h"
+
+1420384696 source:c:\projects\mingw32\cv030\joystick.c
+	"crvision.h"
+
+1420384696 source:c:\projects\mingw32\cv030\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1420384698 c:\projects\mingw32\cv030\tables.h
+
+1420384698 c:\projects\mingw32\cv030\codes.h
+
+1420492842 source:c:\projects\mingw32\cv030\main.c
+	"crvision.h"
+	"platform.h"
+
+1420385398 c:\projects\mingw32\cv030\platform.h
+
+1420495650 source:c:\projects\mingw32\cv030\memory.c
+	"crvision.h"
+
+1420494132 source:c:\projects\mingw32\cv030\pia_intf.c
+	"crvision.h"
+
+1420384696 source:c:\projects\mingw32\cv030\png.c
+	"crvision.h"
+
+1420560478 source:c:\projects\mingw32\cv030\printer.c
+	"crvision.h"
+
+1420385261 source:c:\projects\mingw32\cv030\sn76496sp.c
+	"crvision.h"
+
+1420384696 source:c:\projects\mingw32\cv030\snapshot.c
+	"crvision.h"
+
+1420384696 source:c:\projects\mingw32\cv030\snd_intrf.c
+	"crvision.h"
+
+1420480048 source:c:\projects\mingw32\cv030\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1420385261 source:c:\projects\mingw32\cv030\vdp_intrf.c
+	"crvision.h"
+
+1420560751 source:c:\projects\mingw32\cv030pia\cpu_intrf.c
+	"crvision.h"
+
+1420845454 c:\projects\mingw32\cv030pia\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	<png.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496sp.h"
+	<SDL2/SDL.h>
+
+1420560754 c:\projects\mingw32\cv030pia\m6502.h
+
+1420560754 c:\projects\mingw32\cv030pia\tms9918.h
+
+1420560754 c:\projects\mingw32\cv030pia\sn76496sp.h
+
+1419509642 source:c:\projects\mingw32\cv030pia\creativision.rc
+
+1420851460 source:c:\projects\mingw32\cv030pia\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1420560751 source:c:\projects\mingw32\cv030pia\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1420560754 c:\projects\mingw32\cv030pia\riff.h
+
+1420560751 source:c:\projects\mingw32\cv030pia\drv9918.c
+	"TMS9918.h"
+
+1420560751 source:c:\projects\mingw32\cv030pia\joystick.c
+	"crvision.h"
+
+1420560751 source:c:\projects\mingw32\cv030pia\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1420560754 c:\projects\mingw32\cv030pia\tables.h
+
+1420560754 c:\projects\mingw32\cv030pia\codes.h
+
+1420736573 source:c:\projects\mingw32\cv030pia\main.c
+	"crvision.h"
+	"platform.h"
+
+1420841456 c:\projects\mingw32\cv030pia\platform.h
+
+1420560752 source:c:\projects\mingw32\cv030pia\memory.c
+	"crvision.h"
+
+1420849796 source:c:\projects\mingw32\cv030pia\pia_intf.c
+	"crvision.h"
+
+1420560752 source:c:\projects\mingw32\cv030pia\png.c
+	"crvision.h"
+
+1420843450 source:c:\projects\mingw32\cv030pia\printer.c
+	"crvision.h"
+
+1420560752 source:c:\projects\mingw32\cv030pia\sn76496sp.c
+	"crvision.h"
+
+1420560752 source:c:\projects\mingw32\cv030pia\snapshot.c
+	"crvision.h"
+
+1420560752 source:c:\projects\mingw32\cv030pia\snd_intrf.c
+	"crvision.h"
+
+1420560752 source:c:\projects\mingw32\cv030pia\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1420560752 source:c:\projects\mingw32\cv030pia\vdp_intrf.c
+	"crvision.h"
+
+1420841724 source:c:\projects\mingw32\cv030pia\cassette.c
+	"crvision.h"
+
+1451158589 source:d:\creativision\src\cassette.c
+	"crvision.h"
+
+1451183944 d:\creativision\src\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	<png.h>
+	<zlib.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496sp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+
+1451158589 d:\creativision\src\m6502.h
+
+1451158589 d:\creativision\src\tms9918.h
+
+1451158589 d:\creativision\src\sn76496sp.h
+
+1451172739 source:d:\creativision\src\cpu_intrf.c
+	"crvision.h"
+	"netplay.h"
+
+1451158590 source:d:\creativision\src\creativision.rc
+
+1451158590 source:d:\creativision\src\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1451158589 source:d:\creativision\src\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1451158590 d:\creativision\src\riff.h
+
+1451158589 source:d:\creativision\src\drv9918.c
+	"TMS9918.h"
+
+1451158567 source:d:\creativision\src\joystick.c
+	"crvision.h"
+
+1451158589 source:d:\creativision\src\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1451158589 d:\creativision\src\tables.h
+
+1451158589 d:\creativision\src\codes.h
+
+1451158589 source:d:\creativision\src\memory.c
+	"crvision.h"
+
+1451158589 source:d:\creativision\src\pia_intf.c
+	"crvision.h"
+
+1451158589 source:d:\creativision\src\png.c
+	"crvision.h"
+
+1451158590 source:d:\creativision\src\printer.c
+	"crvision.h"
+
+1451158589 source:d:\creativision\src\sn76496sp.c
+	"crvision.h"
+
+1451158567 source:d:\creativision\src\snapshot.c
+	"crvision.h"
+
+1451158590 source:d:\creativision\src\snd_intrf.c
+	"crvision.h"
+
+1451158567 source:d:\creativision\src\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1451183840 source:d:\creativision\src\vdp_intrf.c
+	"crvision.h"
+
+1451183825 source:d:\creativision\src\main.c
+	"crvision.h"
+	"platform.h"
+	"netplay.h"
+
+1451158942 d:\creativision\src\platform.h
+
+1451183338 d:\creativision\src\netplay.h
+
+1451183568 source:d:\creativision\src\netplay.c
+	"crvision.h"
+	"netplay.h"
+
+1460886821 source:d:\sforge\cassette.c
+	"crvision.h"
+
+1460893726 d:\sforge\crvision.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/stat.h>
+	<png.h>
+	<zlib.h>
+	"M6502.h"
+	"TMS9918.h"
+	"sn76496sp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+
+1460886822 d:\sforge\m6502.h
+
+1460886821 d:\sforge\tms9918.h
+
+1460886822 d:\sforge\sn76496sp.h
+
+1460892171 source:d:\sforge\cpu_intrf.c
+	"crvision.h"
+	"netplay.h"
+
+1460886821 d:\sforge\netplay.h
+
+1460886822 source:d:\sforge\creativision.rc
+
+1460886822 source:d:\sforge\debug.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<SDL2/SDL.h>
+	"M6502.h"
+	"NES.h"
+
+1460886821 source:d:\sforge\demorec.c
+	"crvision.h"
+	"riff.h"
+
+1460886822 d:\sforge\riff.h
+
+1460886822 source:d:\sforge\drv9918.c
+	"TMS9918.h"
+
+1460886778 source:d:\sforge\joystick.c
+	"crvision.h"
+
+1460886822 source:d:\sforge\m6502.c
+	"M6502.h"
+	"Tables.h"
+	<stdio.h>
+	"Codes.h"
+	"Codes.h"
+
+1460886821 d:\sforge\tables.h
+
+1460886821 d:\sforge\codes.h
+
+1460893726 source:d:\sforge\main.c
+	"crvision.h"
+	"platform.h"
+	"netplay.h"
+
+1451222463 d:\sforge\platform.h
+
+1460886822 source:d:\sforge\memory.c
+	"crvision.h"
+
+1460886821 source:d:\sforge\netplay.c
+	"crvision.h"
+	"netplay.h"
+
+1460891990 source:d:\sforge\pia_intf.c
+	"crvision.h"
+
+1460886821 source:d:\sforge\png.c
+	"crvision.h"
+
+1460886822 source:d:\sforge\printer.c
+	"crvision.h"
+
+1460886822 source:d:\sforge\sn76496sp.c
+	"crvision.h"
+
+1460886821 source:d:\sforge\snapshot.c
+	"crvision.h"
+
+1460888873 source:d:\sforge\snd_intrf.c
+	"crvision.h"
+
+1460886778 source:d:\sforge\tms9918.c
+	"TMS9918.h"
+	<stdlib.h>
+	<string.h>
+
+1460886822 source:d:\sforge\vdp_intrf.c
+	"crvision.h"
+
+1460894133 source:d:\sforge\laserdos.c
+	"crvision.h"
+	"laserdos.h"
+
+1460890742 d:\sforge\laserdos.h
+
